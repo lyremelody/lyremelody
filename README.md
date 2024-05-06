@@ -1,4 +1,4 @@
-👋 Hi, I’m @lyremelody, an engineer since 2009，and software architect since 2012.
+👋 Hi, I’m @lyremelody, an engineer since 2009，and software architect since 2014.
 
 Life is a journey of self-cultivation. I recorded it on [https://lyremelody.cn/](https://lyremelody.cn/).
 
